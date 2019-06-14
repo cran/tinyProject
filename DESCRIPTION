@@ -1,7 +1,8 @@
 Package: tinyProject
 Type: Package
 Title: A Lightweight Template for Data Analysis Projects
-Version: 0.6
+Version: 0.6.1
+Date: 2019-06-13
 Author: Francois Guillem
 Maintainer: Francois Guillem <guillem.francois@gmail.com>
 Description: Creates useful files and folders for data
@@ -15,6 +16,6 @@ Imports: brew, methods, R.utils
 Suggests: testthat, remotes, covr
 RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2019-06-11 05:54:41 UTC; fguillem
+Packaged: 2019-06-13 12:21:58 UTC; fguillem
 Repository: CRAN
-Date/Publication: 2019-06-11 06:10:03 UTC
+Date/Publication: 2019-06-14 11:40:03 UTC
